@@ -3,9 +3,9 @@
 </p>
 
 ```bash
-> fetch: bio```
+> fetch: bio
 
-```text
+
 frimouzee@github
 ----------------------------------
 Terminal: Kitty
