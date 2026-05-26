@@ -4,6 +4,3 @@
 
 ```bash
 > fetch: bio
-
-
-
