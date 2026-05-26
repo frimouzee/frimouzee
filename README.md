@@ -3,7 +3,7 @@
 </p>
 
 ```bash
-> fetch: bio
+> fetch: bio```
 
 ```text
 frimouzee@github
@@ -16,4 +16,4 @@ Location: Nepal
 Technologies: Next.js, Nuxt, React, Bulma, Tailwindcss, Express, more..
 Languages: JavaScript, TypeScript, C, C++, C#, Rust, Python, Java
 Hobbies: Coding, Open Source, Exploring New Tech
-Discord: 7axq
+Discord: 7axq```
