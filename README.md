@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://dk2dv4ezy246u.cloudfront.net/widgets/sMCK4OKne4f_large.jpg" alt="Aesthetic Banner" width="100%">
+</p>
 
-<!--
-**frimouzee/frimouzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### > fetch: bio
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+frimouzee@github
+----------------------------------
+Terminal: Kitty
+IDE: Visual Studio Code
+Used OS: Arch Linux
+Age: Unknown
+Location: Nepal
+Technologies: Next.js, Nuxt, React, Bulma, Tailwindcss, Express, more..
+Languages: JavaScript, TypeScript, C, C++, C#, Rust, Python, Java
+Hobbies: Coding, Open Source, Exploring New Tech
+Discord: 7axq
